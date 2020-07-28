@@ -141,10 +141,11 @@
   <ItemGroup>
     <ClCompile Include="mezzoDiTrasporto.cpp" />
     <ClCompile Include="Origine.cpp" />
-    <ClCompile Include="Origine1.cpp" />
+    <ClCompile Include="posto.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mezzoDiTrasporto.h" />
+    <ClInclude Include="posto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

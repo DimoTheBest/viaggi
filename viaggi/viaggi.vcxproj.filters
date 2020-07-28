@@ -18,15 +18,18 @@
     <ClCompile Include="Origine.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
-    <ClCompile Include="Origine1.cpp">
+    <ClCompile Include="mezzoDiTrasporto.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
-    <ClCompile Include="mezzoDiTrasporto.cpp">
+    <ClCompile Include="posto.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mezzoDiTrasporto.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="posto.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
   </ItemGroup>

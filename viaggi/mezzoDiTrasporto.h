@@ -12,8 +12,7 @@ public:
 	virtual~mezzoDiTrasporto() {};
 
 private:
-
-};
+	
 
 mezzoDiTrasporto::mezzoDiTrasporto()
 {
